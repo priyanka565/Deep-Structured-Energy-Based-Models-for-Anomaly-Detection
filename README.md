@@ -1,4 +1,4 @@
 # Deep-Structured-Energy-Based-Models-for-Anomaly-Detection
-Project Description
 
-This project implements Deep Structured Energy-Based Models (DSEBM) for unsupervised anomaly detection. The model is trained on the KDDCup99 10% dataset, a benchmark dataset used for network intrusion detection. By leveraging energy-based learning, the model effectively distinguishes between normal and anomalous network activities.
+#Project description
+This project aims to develop a Deep Structured Energy-Based Model (DSEBM) for unsupervised anomaly detection, particularly in network traffic analysis. The model is trained on the KDDCup99_10 dataset, a benchmark dataset for intrusion detection, and leverages energy-based learning to differentiate between normal and anomalous patterns.
