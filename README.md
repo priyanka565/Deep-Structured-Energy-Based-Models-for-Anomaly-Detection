@@ -1,4 +1,4 @@
-# Deep Structured Energy-Based Models (DSEBM) for Anomaly Detection – PyTorch
+# Deep Structured Energy-Based Models (DSEBM) for Anomaly Detection 
 
 A PyTorch implementation of the Deep Structured Energy-Based Model (DSEBM) for unsupervised anomaly detection in network traffic, trained and evaluated on the KDDCup99 (10%) intrusion detection dataset.
 
